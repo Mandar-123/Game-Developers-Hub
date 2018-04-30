@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+body
+{
+	font-family: 'Lato', 'sans-serif';
+}
+
+.dropdown-menu li a{
+	background-color:#222;
+	color:#a6a6a6;
+		
+}
+.dropdown-menu li a:hover{
+	background-color:#222;
+	color:white;
+}
+.dropdown-menu{
+	padding:0px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a{
+	color:#a6a6a6;
+	margin:0px 3px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color:white;
+}
+body{
+	background-attachment:fixed;
+	background-size:cover;
+}
+.header .menu ul li { margin:0 4px; float:left;}
+	

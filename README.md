@@ -3,9 +3,9 @@
 
 - The hub makes communication easier than ever, as both can check each other’s portfolio at real time, at any place, and know the experience and genuinity of the other, along with which they can chat and develop in real time, since data would be documented for easier reference.
 
-- This Web Applicatio uses 
+- This Web Application uses 
   - HTML, CSS and Javasript as frontend languages.
-  - PHP as backend lanuage
+  - PHP as backend language
   - It also uses Bootstrap and JQuery frameworks.
-  
+
  - Refer <a href="https://github.com/Mandar-123/Game-Developers-Hub/wiki/Project-Overview">wiki</a> for more info

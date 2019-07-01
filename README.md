@@ -8,4 +8,4 @@
   - PHP as backend language
   - It also uses Bootstrap and JQuery frameworks.
 
- - Refer <a href="https://github.com/Mandar-123/Game-Developers-Hub/wiki/Project-Overview">wiki</a> for more info
+ - Refer <a href="https://github.com/md3997/Game-Developers-Hub/wiki/Project-Overview">wiki</a> for more info

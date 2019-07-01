@@ -70,7 +70,6 @@ INSERT INTO `projectdetails` (`email`, `genre`, `name`, `description`, `devdet`,
 ('kartik@gmail.com', 'Horror', 'Zombie Attack', 'This game is a fps game with various levels to explore in an open world envoirnment.', 'Beta Mode', 'Yes', ''),
 ('kumbharrohit71@gmail.com', '', '', '', '', 'No', ''),
 ('mandar@gmail.com', 'Adventure', 'The Forest', 'FPS game with multiplayer support and a lot of combat and action', 'Halfway through development', 'No', 'Sound engineer,Game Tester,UI Designer,Writer,'),
-('mandardeo1997@gmail.com', '', '', '', '', 'No', ''),
 ('rs@gmail.com', 'Shooter', 'aaa', 'sasfasf', 'asf', 'Yes', 'Game Programmer,Level Designer,'),
 ('sanket@g.com', 'Sports', 'Racer Tournament 3D', 'This is an racing game which is currently under devlopment.', 'Testing Phase', 'Yes', 'Game Animator,UI Designer,Character Modeler,'),
 ('vik@gmail.com', 'Role-Playing Game', 'BattleGround 4D', 'This is an role playing game placed in times of WW2.With a good wepons system,and combat power', 'The project is in the initial stage of development', 'Yes', '');
@@ -143,7 +142,6 @@ INSERT INTO `skills` (`email`, `mainskill`, `about`, `edu`, `exp`, `otherskills`
 ('kartik@gmail.com', 'UI Designer', 'I like to see creativity we see around us and would like to implement it in game development', 'Animation B.Tech in   from FX school', '2 years of experience in UI design', 'Blender,FMod,Game Studio,HTML,iClone,'),
 ('kumbharrohit71@gmail.com', '', '', '', '', 'Cinema 4D,DAZ 3D,iClone,Visual Basic,'),
 ('mandar@gmail.com', 'Game Programmer', 'I am an indie game developer with an interest in programming and logic', 'BE Computer', 'Internship as junior Game developer at an mobile', 'Game Studio,C++,FMod,Flash,DirectX,Autodesk 3ds Max,HTML,'),
-('mandardeo1997@gmail.com', '', '', '', '', ''),
 ('rs@gmail.com', '', '', '', '', ''),
 ('sanket@g.com', 'Sound engineer', 'I am a sound engineer with interest in game development', 'BE Electronics', 'Junior Sound Eng. GD dame devs.', 'Leadwerks,Java,Autodesk 3ds Max,Game Maker,Ogre,DirectX,CryEngine,'),
 ('vik@gmail.com', 'Game Artist', 'I am an Graphic Designer with someexperience in animation', 'B.com\r\nDiploma in Graphic Designing', '2 year internship with CA arts', 'Game Maker,Corona,Cinema 4D,iClone,Unreal Engine,Torque3D,jMonkey Game Engine,Game Studio,Autodesk Maya,');
@@ -177,11 +175,10 @@ INSERT INTO `user` (`fn`, `ln`, `gender`, `email`, `phn`, `dob`, `state`, `city`
 ('Hat', 'Sala', '', 'hat@sala.com', '1231231231', '1997-12-12', 'Dadra & Nagar Haveli', 'Dadra and Nagar Haveli', '$2y$10$QP5ay89.4x7wT.tcsbEul.BBlAz6xFg80X7iKywEgmcokvlzkw6iO', 'No'),
 ('Kartik', 'Lakade', 'm', 'kartik@gmail.com', '9564878456', '1997-12-12', 'Himachal Pradesh', 'Lahaul & Spiti', '$2y$10$cJ64CFvWrpHfEMF1mCfPUO6X4.efEESZHby3B98uf318EeN7YWmOy', 'No'),
 ('R', 'K', 'm', 'kumbharrohit71@gmail.com', '7219469422', '1997-10-11', 'Maharashtra', 'Mumbai City', '$2y$10$IDz3YfcPdvtYf0dWmbeJ/eD3lEZfWCzpJRkeS1lzTD8HCfeE74sXu', 'Yes'),
-('Mandar', 'Deo', 'm', 'mandar@gmail.com', '9664805593', '1997-09-03', 'Maharashtra', 'Mumbai City', '$2y$10$vSOXqNnPPGM4npz0kk0qyeqK3XVMK6vegZPkyCADOP42tOo8KMUwS', 'Yes'),
-('Mandar', 'Deo', '', 'mandardeo1997@gmail.com', '9664805593', '1997-09-03', 'Maharashtra', 'Mumbai City', '$2y$10$PIN4ZlgVe6Z.HFW.lnGU4u1wJ0kB47MBR0N3DKv0CReNDMCDF2WWW', 'No'),
+('M', 'D', 'm', 'mandar@gmail.com', '9664805593', '1997-09-03', 'Maharashtra', 'Mumbai City', '$2y$10$vSOXqNnPPGM4npz0kk0qyeqK3XVMK6vegZPkyCADOP42tOo8KMUwS', 'Yes'),
 ('rohit', 'sharma', 'm', 'rs@gmail.com', '9589856452', '1212-12-12', 'Jammu & Kashmir', 'Rajouri', '$2y$10$a9GPNSOSad8EYzXuoPqooOV9kwxwP4yrSGUAlfYi42AMCY15GtLUq', 'No'),
 ('Sanket', 'Sutar', 'm', 'sanket@g.com', '9648751569', '1997-05-12', 'Gujarat', 'Kheda', '$2y$10$higrcrujY2JLoVetm0QK3eE3EdcsXIRXyapimLsVqMT6tuylZOnE.', 'No'),
-('Vikrant', 'Deo', 'm', 'vik@gmail.com', '9564851245', '1997-03-16', 'Dadra & Nagar Haveli', 'Dadra and Nagar Haveli', '$2y$10$fmYvWUpKB/0siAjosYXb.uxD.iPDkGVAp4krSDRBbSHMulS42cO8W', 'Yes');
+('V', 'D', 'm', 'vik@gmail.com', '9564851245', '1997-03-16', 'Dadra & Nagar Haveli', 'Dadra and Nagar Haveli', '$2y$10$fmYvWUpKB/0siAjosYXb.uxD.iPDkGVAp4krSDRBbSHMulS42cO8W', 'Yes');
 
 -- --------------------------------------------------------
 
